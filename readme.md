@@ -26,7 +26,7 @@ Welcome! This repository showcases projects completed as part of DataCamp’s **
 ## 🎯 Career Programs
 
 - **Associate Data Analyst in SQL**  
-- **Associate Data Analyst in Python**
+- **Data Analyst in Python**
 
 These programs are designed to build strong foundations in data analysis through real-world, hands-on projects.
 
