@@ -20,6 +20,13 @@ This repository contains data analysis projects developed using SQL and Python, 
 
   Skills: PostgreSQL, SQL joins, CTEs, window functions, aggregation & ranking, impact analysis.
   
+- **Project 3: [International Debt Statistics Analysis](projects/analyze_international_debt_statistics)**
+
+  Analysis of World Bank international debt data using SQL aggregations and filtering to identify countries with the highest total debt and the lowest principal repayments.
+
+  Skills: PostgreSQL, SQL aggregations, data filtering, descriptive statistics, economic data analysis.
+
+  
 ## 🛠️ Tools & Technologies
 
 - SQL
