@@ -20,7 +20,7 @@ This repository contains data analysis projects developed using SQL and Python, 
   Analysis of World Bank international debt indicators using SQL aggregations to quantify country coverage and identify countries with the highest total debt and lowest principal repayments.  
   **Skills:** PostgreSQL, descriptive statistics, aggregations, data filtering, economic data analysis.
 
-- **Project 4: [When Was the Golden Era of Video Games?](projects/when_was_the_golden_era_of_video_games)**  
+- **Project 4: [When Was the Golden Era of Video Games?](projects/the_golden_era_of_video_games)**  
   Analysis of video game sales and Metacritic review data using joins, aggregations, and set-based comparisons to identify the top-selling games and the highest-rated years by critics and users.  
   **Skills:** PostgreSQL, SQL joins, aggregations, set operations, trend analysis, exploratory data analysis.
 
