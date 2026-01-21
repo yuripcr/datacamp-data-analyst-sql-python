@@ -1,4 +1,4 @@
-# 📊 Data Analysis Portfolio (SQL & Python)
+# 📊 Data Analysis Portfolio (SQL)
 
 This repository contains data analysis projects developed using SQL and Python, focused on data exploration, aggregation, and insight generation to support decision-making. The projects use real-world datasets and simulate practical analytical scenarios.
 
@@ -8,29 +8,25 @@ This repository contains data analysis projects developed using SQL and Python, 
 
 ### Associate Data Analyst in SQL
 
-- **Project 1: [Mental Health of International Students](projects/analyzing_students_mental_health)**
+- **Project 1: [Mental Health of International Students](projects/analyzing_students_mental_health)**  
+  Analysis of a study dataset using SQL filtering and aggregations to evaluate how length of stay relates to depression, social connectedness, and acculturative stress among international students.  
+  **Skills:** PostgreSQL, data exploration, SQL filtering, aggregations, cohort analysis (length of stay), analytical reasoning.
 
-  Analysis of a study dataset using SQL aggregations and filters to identify key factors associated with mental health outcomes among international students.
-  
-  Skills: PostgreSQL, data exploration, aggregation queries, cohort analysis (length of stay), analytical reasoning.
+- **Project 2: [Impact Analysis of GoodThought NGO Initiatives](projects/impact_analysis_of_goodThought_ngo_initiatives)**  
+  Analysis of an NGO database (2010–2023) using joins, CTEs, and window functions to segment donations by donor type and identify the highest-impact assignment per region.  
+  **Skills:** PostgreSQL, SQL joins, CTEs, window functions, aggregation & ranking, impact analysis.
 
-- **Project 2: [Impact Analysis of GoodThought NGO Initiatives](projects/impact_analysis_of_goodThought_ngo_initiatives)**
+- **Project 3: [International Debt Statistics Analysis](projects/analyze_international_debt_statistics)**  
+  Analysis of World Bank international debt indicators using SQL aggregations to quantify country coverage and identify countries with the highest total debt and lowest principal repayments.  
+  **Skills:** PostgreSQL, descriptive statistics, aggregations, data filtering, economic data analysis.
 
-  Analysis of a PostgreSQL database containing NGO initiatives (2010–2023), using joins and aggregations to evaluate donation patterns and identify the highest-impact initiatives by region.
+- **Project 4: [When Was the Golden Era of Video Games?](projects/when_was_the_golden_era_of_video_games)**  
+  Analysis of video game sales and Metacritic review data using joins, aggregations, and set-based comparisons to identify the top-selling games and the highest-rated years by critics and users.  
+  **Skills:** PostgreSQL, SQL joins, aggregations, set operations, trend analysis, exploratory data analysis.
 
-  Skills: PostgreSQL, SQL joins, CTEs, window functions, aggregation & ranking, impact analysis.
-  
-- **Project 3: [International Debt Statistics Analysis](projects/analyze_international_debt_statistics)**
-
-  Analysis of World Bank international debt data using SQL aggregations and filtering to identify countries with the highest total debt and the lowest principal repayments.
-
-  Skills: PostgreSQL, SQL aggregations, data filtering, descriptive statistics, economic data analysis.
-
-  
 ## 🛠️ Tools & Technologies
 
 - SQL
-- Python
 - Jupyter Notebook  
 
 ---
